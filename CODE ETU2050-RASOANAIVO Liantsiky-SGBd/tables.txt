@@ -1,0 +1,1 @@
+CJH/IdCours String,Jour String,Heure String/;;CS/IdCours String,IdSalle String/;;ENA/IdEtudiant String,Nom String,Adresse String/;;CEN/IdCours String,IdEtudiant String,Note String /;;r1/IdCours/;;Etudiant/Nom String,Age int/;;r2/IdEtudiant/;;r3/IdCours,IdEtudiant/;;r7/IdEtudiant,IdCours/;;r8/IdEtudiant,IdCours/;;r6/IdCours,Jour,Heure/;;

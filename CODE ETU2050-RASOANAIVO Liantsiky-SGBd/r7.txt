@@ -1,0 +1,1 @@
+100,Archi;;100,Algo;;100,Syst;;100,Algo;;100,Algo;;200,Archi;;200,Algo;;200,Syst;;200,Algo;;200,Algo;;300,Archi;;300,Algo;;300,Syst;;300,Algo;;300,Algo;;

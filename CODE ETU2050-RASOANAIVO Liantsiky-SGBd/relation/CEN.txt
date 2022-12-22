@@ -1,0 +1,1 @@
+Archi,100,A;;Archi,300,A;;Syst,100,B;;Syst,200,A;;Syst,300,B;;Algo,100,C;;Algo,200,A;;Algo,200,A;;
